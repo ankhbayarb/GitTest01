@@ -14,7 +14,7 @@ namespace GitTest01
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Goodbye World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
